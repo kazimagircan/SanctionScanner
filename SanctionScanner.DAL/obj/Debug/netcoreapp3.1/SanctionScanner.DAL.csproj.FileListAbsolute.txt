@@ -1,0 +1,28 @@
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.deps.json
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.runtimeconfig.json
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.runtimeconfig.dev.json
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.dll
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.pdb
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.csproj.AssemblyReference.cache
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.AssemblyInfoInputs.cache
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.AssemblyInfo.cs
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.dll
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.pdb
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.genruntimeconfig.cache
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.DAL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.deps.json
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.runtimeconfig.json
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.runtimeconfig.dev.json
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.dll
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.pdb
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.csproj.AssemblyReference.cache
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.AssemblyInfoInputs.cache
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.AssemblyInfo.cs
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.dll
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.pdb
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.DAL\obj\Debug\netcoreapp3.1\SanctionScanner.DAL.genruntimeconfig.cache

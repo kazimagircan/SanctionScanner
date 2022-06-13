@@ -1,0 +1,20 @@
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.Infrastructure\bin\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.deps.json
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.Infrastructure\bin\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.dll
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.Infrastructure\bin\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.pdb
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.AssemblyInfo.cs
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.dll
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.pdb
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.Infrastructure\bin\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.deps.json
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.Infrastructure\bin\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.dll
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.Infrastructure\bin\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.pdb
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.AssemblyInfo.cs
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.dll
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.Infrastructure\obj\Debug\netcoreapp3.1\SanctionScanner.Infrastructure.pdb

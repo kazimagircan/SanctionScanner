@@ -1,0 +1,28 @@
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\bin\Debug\netcoreapp3.1\SanctionScanner.BAL.deps.json
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\bin\Debug\netcoreapp3.1\SanctionScanner.BAL.dll
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\bin\Debug\netcoreapp3.1\SanctionScanner.BAL.pdb
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.dll
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.pdb
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.csproj.AssemblyReference.cache
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.AssemblyInfoInputs.cache
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.AssemblyInfo.cs
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.csproj.CoreCompileInputs.cache
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.csproj.CopyComplete
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.dll
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.pdb
+C:\Users\kzm\source\repos\SanctionScanner\SanctionScanner.BAL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\bin\Debug\netcoreapp3.1\SanctionScanner.BAL.deps.json
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\bin\Debug\netcoreapp3.1\SanctionScanner.BAL.dll
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\bin\Debug\netcoreapp3.1\SanctionScanner.BAL.pdb
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.dll
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\bin\Debug\netcoreapp3.1\SanctionScanner.DAL.pdb
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.csproj.AssemblyReference.cache
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.AssemblyInfoInputs.cache
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.AssemblyInfo.cs
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.csproj.CoreCompileInputs.cache
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.csproj.CopyComplete
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.dll
+C:\Users\kzm\source\repos\SanctionScanner - Kopya\SanctionScanner.BAL\obj\Debug\netcoreapp3.1\SanctionScanner.BAL.pdb

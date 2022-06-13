@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "CreateCost";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<partial name="../User/Partial/_Header" />
+<div>
+    <div class="row">
+        <partial name="../User/Partial/_Sidebar" />
+        <div class="form-container">
+            <div class="container">
+                <h2 class="text-center">Create Cost</h2>
+                <div class="form-group">
+                    <label for="email">Description:</label>
+                    <input type="text" class="form-control form-control-lg" id="description" placeholder="Enter description" name="description">
+                </div>
+                <div class="form-group">
+                    <label for="pwd">Quantity:</label>
+                    <input type="number" class="form-control form-control-lg" id="quantity" placeholder="Enter quantity" name="quantity">
+                </div>
+                <div class="form-group">
+                    <label for="pwd">Unit Price:</label>
+                    <input type="number" class="form-control form-control-lg" id="price" placeholder="Enter unit price" name="price">
+                </div>
+                <div class="form-group">
+                    <label for="pwd">Date:</label>
+                    <input type="date" class="form-control form-control-lg" id="date" name="date">
+                </div>
+                <div class="form-group">
+                    <label>Total:</label>
+                    <label id="total"> </label>
+                </div>
+                <div class="form-group">
+                    <button type="button" id="createCost" class="btn btn-primary create-cost-btn">Create</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

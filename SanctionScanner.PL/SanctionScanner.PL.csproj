@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SanctionScanner.BAL\SanctionScanner.BAL.csproj" />
+    <ProjectReference Include="..\SanctionScanner.DAL\SanctionScanner.DAL.csproj" />
+    <ProjectReference Include="..\SanctionScanner.Infrastructure\SanctionScanner.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Cost";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<partial name="../Manager/Partial/_Header" />
+<div>
+    <div class="row">
+        <partial name="../Manager/Partial/_Sidebar" />
+
+        <div class="text-center table-container">
+            <h2 class="text-center">All Cost</h2>
+            <div class="main-container">
+
+                <table id="costList" class="table table-hover table-dark table-responsive-lg costList">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th scope="col">Id</th>
+                            <th scope="col">Description</th>
+                            <th scope="col">Date</th>
+                            <th scope="col">Quantity</th>
+                            <th scope="col">Unit Price</th>
+                            <th scope="col">Total</th>
+                            <th scope="col">Status</th>
+                            <th scope="col">Reject Reason</th>
+                            <th scope="col">Created Date</th>
+                            <th scope="col">Updated Date</th>
+                        </tr>
+                    </thead>
+
+                </table>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+
